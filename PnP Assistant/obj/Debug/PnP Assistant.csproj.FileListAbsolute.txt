@@ -1,0 +1,165 @@
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\ApplicationInsights.config
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\csc.exe
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\vbc.exe
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\VBCSCompiler.exe
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\PnP Assistant.dll.config
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\PnP Assistant.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\PnP Assistant.pdb
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Antlr3.Runtime.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\EntityFramework.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\EntityFramework.SqlServer.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Web.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.ApplicationInsights.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Newtonsoft.Json.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Owin.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Helpers.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Mvc.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Optimization.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Razor.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Deployment.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Razor.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\WebGrease.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Web.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.ApplicationInsights.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Helpers.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Mvc.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Optimization.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.Razor.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Deployment.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Razor.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Antlr3.Runtime.pdb
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Newtonsoft.Json.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\EntityFramework.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\EntityFramework.SqlServer.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.csprojResolveAssemblyReference.cache
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.dll
+C:\Users\zane\Documents\Visual Studio 2015\Projects\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.pdb
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\ApplicationInsights.config
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\csc.exe
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\System.Collections.Immutable.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\System.Reflection.Metadata.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\vbc.exe
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\VBCSCompiler.exe
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\roslyn\VBCSCompiler.exe.config
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\PnP Assistant.dll.config
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\PnP Assistant.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\PnP Assistant.pdb
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Antlr3.Runtime.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\EntityFramework.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\EntityFramework.SqlServer.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Agent.Intercept.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.DependencyCollector.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Web.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.WindowsServer.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.ApplicationInsights.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Core.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Cookies.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Facebook.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Google.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.OAuth.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Twitter.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Web.Infrastructure.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Newtonsoft.Json.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Owin.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Helpers.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Mvc.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Optimization.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Razor.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Deployment.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Razor.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\WebGrease.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.DependencyCollector.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.Web.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AI.WindowsServer.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.ApplicationInsights.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Helpers.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Mvc.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Optimization.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.Razor.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Deployment.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\System.Web.WebPages.Razor.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Antlr3.Runtime.pdb
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Newtonsoft.Json.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\EntityFramework.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\EntityFramework.SqlServer.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Core.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Facebook.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Cookies.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.OAuth.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Google.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.Twitter.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.csproj.AssemblyReference.cache
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.csproj.CoreCompileInputs.cache
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.dll
+G:\School stuff\School folder 2016-2017\PnP Assistant\PnP Assistant\obj\Debug\PnP Assistant.pdb

@@ -1,0 +1,34 @@
+﻿@using MVCSS.Models
+@model ContactViewModel
+
+@{
+    ViewBag.Title = "Contact";
+}
+
+
+<main>
+    <h3>Feedback Form</h3>
+    <form method="post" action="~/Home/Contact">
+        @Html.AntiForgeryToken()
+        @Html.ValidationSummary("", new { @class = "text-danger" })
+        <label for="contact_name">Name:</label>
+        <input type="text" name="contact_name" id="contact_name" maxlength="50" required>
+        <label for="contact_email">Email Address:</label>
+        <input type="email" name="contact_email" id="contact_email" maxlength="50" required>
+        <label for="contact_purpose">Purpose:</label>
+        <select>
+
+            <option><value value=""></value>Please Select a Purpose</option>
+            <option><value value="comment"></value>Site Comment</option>
+            <option><value value="question"></value>General Question</option>
+            <option><value value="message"></value>Personal Message</option>
+
+        </select> <br />
+        <label for="contact_message">Message:</label>
+        <textarea name="contact_message" id="contact_message" required></textarea>
+        <label></label>
+        <input type="submit" required>
+
+
+    </form>
+</main>

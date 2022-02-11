@@ -1,0 +1,123 @@
+
+header {
+	color: #193441;
+	background-color: #FCFFF5;
+	background-image: url("../Content/Jumbotron.jpg");
+	background-position: right;
+	background-repeat: no-repeat;
+	border-radius: 10px 10px 0 0;
+    height: 200px;
+
+}
+nav {
+	color: #FCFFF5;
+	background-color: #3E606F;
+	padding: 5px 10px;
+	font-size: 14pt;
+	font-weight: bold;
+	box-shadow: 0 10px 5px -5px #121D2B;
+	position: relative;
+}
+nav ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+nav a {
+	text-decoration: none;
+	color: #FCFFF5;
+}
+nav li {
+	display: inline;
+	margin-right: 10px;
+}
+main {
+	color: #193441;
+	background-color: #D1DBBD;
+	padding: 10px;
+	z-index: 0;
+}
+main a {
+	color: #363D52;
+}
+footer {
+	color: #FCFFF5;
+	background-color: #3E606F;
+	padding: 5px 10px;
+	font-size: 10pt;
+	font-style: italic;
+	border-radius: 0 0 10px 10px;
+}
+footer a {
+	color: #121D2B;
+}
+.details {
+	color: #94B24D;
+	background-color: #121D2B;
+	float: right;
+	padding: 5px 10px;
+}
+header, section, footer, aside, nav, main, article, figure {
+	display: block;
+}
+body {
+	font-family: Calibri, Helvetica, Arial, sans-serif;
+	background-image: url("../Content/Background.jpeg");
+
+}
+h1 {
+	Margin: 0;
+	Padding: 5px 10px;
+	Font-size: 42pt;
+	line-height: 36pt;
+	font-weight: lighter;
+}
+h2 {
+	margin: 0;
+	padding: 0 10px 5px;
+	font-size: 18pt;
+	line-height: 22pt;
+	font-weight: lighter;
+	font-style: italic;
+}
+#wrapper {
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+   
+}
+h3 {
+	font-size: 24pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+.portrait {
+	float: right;
+}
+nav a:hover {
+	border-top: 1px dashed #94B24D;
+	border-bottom: 1px dashed #94B24D;
+}
+label {
+    display: block;
+    float: left;
+    width: 150px;
+    font-weight: bold;
+}
+input, textarea, select {
+    display: block;
+    width: 300px;
+    margin-bottom: 5px;
+    margin-left: 150px;
+}
+textarea {
+    height: 75px;
+}
+table, th, td {
+    border: 1px solid black;
+}
+#Character img{
+    width: 100%;
+}

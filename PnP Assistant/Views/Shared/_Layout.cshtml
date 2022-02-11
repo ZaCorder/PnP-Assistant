@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewBag.Name </title>
+    <link rel="stylesheet" href="~/Content/PnPAssistant.css">
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+<body>
+    <div id="wrapper">
+        <header>
+            <h1>PnP Assistant</h1>
+            <h2>PnP Assistant is a web application</h2>
+            <h2>that will help you manage pen and</h2>
+            <h2>paper games you play over the net.</h2>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="~/home/Index">Home</a></li>
+                <li><a href="~/home/Characters">Characters</a></li>
+                <li><a href="~/home/DiceRoller">Dice Roller</a></li>
+                <li><a href="~/home/Contact">Contact</a></li>
+                <li><a href="~/home/LogIn">Log In</a></li>
+                <li><a href="~/home/Register">Register</a></li>
+            </ul>
+        </nav>
+        <div id="body">
+            @RenderBody()
+        </div>
+        <footer>
+            Copyright &copy; 2016, Zane Corder<br>
+            <a href="zcorder@augusta.edu" target="_blank"><b>Email:</b>zcorder@augusta.edu<br></a>
+        </footer>
+    </div>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
+
